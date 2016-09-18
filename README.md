@@ -1,6 +1,6 @@
 # test
 just a test hahaha
 
-strange = 口 =
+nooooooooooooooooo = 口 =
 
-why there is no error ?!!!
+why there is no error GG smida ?!!!
