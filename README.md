@@ -1,5 +1,6 @@
 # test
 just a test hahaha
 
-noooORTooo = 口 =
+push must commit first!
+
 for report
